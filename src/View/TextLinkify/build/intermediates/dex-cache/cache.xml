@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_a65cc7d4fc053e59c2bb11bc26e0c3b997fdca36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_b7e2fb67441ae2fcf4dd68807c5f98b7fcc41ddc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\a51f32c1f834fcfbedd4f569c16ea4b212bc7182\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15c01f8ca96f481256329c3fb911f648eafb0f1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_e8904d09dd2e15c07de0df29df161dcb3bacd87c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f61cee9f33ac8da52f7f6018e856ed59b7dd5a96">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b29b008dacb27e7bf37c24191a57a1a590ade5a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_123f77b32527b7735dd485cd2cfe3f8d07e1794d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_dc36c6bfb9de6afa9cd3587e661aa7109474dc46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_83c9c0b1c9cc8e95765a134131a6a39c7cda1b74\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4233448e6264339d808a4b43be86c5272341cf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_21bf02dd08c47124a08ad4530ff6f4eb1e1fcd85.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f485bd7b500c4619399cf469c064c1aa0b277921\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_73c81b3ab3a9d6d09084cbb8136b73be32341df5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_beaec1616065110c03377c10b8a4b12a5cf36ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_70da0149ffa5e043a361aa08171c46e79322c702.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\46c80a98059a5cf28376528ade7751c80aa30b70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0b0ad800a884f6c8797e4181a2a6b71f720dd1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_227600eef0fef77fda918839f25747b9fb9194fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_705aa6e826d2f78820af44c03bd798eef5d6fd70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_6c1a56b22fc843410dae330a7fd96809fd14c8c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\5e72de7a9f0ca12b855c7469c015bd9c8a42dee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f8ef9b228d21d19029b282e7ba5a736469bf20e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9b67a8eefa76d01e1935371822586bd4e28f3714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c1a1f72e3e02d88322c1b0a26c31254e953d521c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_f7bb4ab697a7275bb63817e8e0d7607101921c79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_fa5e1d9f995389909ef93d7b40030776568a94ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_5e44b316ac3a094c2822e5009a22bc243a4e29ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\40bd76dd8655a8fad510c8e8d19cda95b696638e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e006873e1743a5083075b52fbdb68ee8dd632ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_ad27985ffd5813fdcbaa2b3cd2f3a7696bb457f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\f485bd7b500c4619399cf469c064c1aa0b277921\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95505d68e6642f898e1298314627f336a7ebb789\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\9da78ce734e0d552cc663e90f572db848aaf2823\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c4c1fcc34aca536e3389c31527fb3c941b80266">
+        <dex dex="F:\GoogleSample\src\View\TextLinkify\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b65e8dcc81090269d60f51f6f60e7369f8a6426f\classes.dex" />
+    </item>
+
+</items>

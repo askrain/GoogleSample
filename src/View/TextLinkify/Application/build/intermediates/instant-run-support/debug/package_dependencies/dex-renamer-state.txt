@@ -1,0 +1,25 @@
+#Mon Mar 26 18:13:10 CST 2018
+renamed.7=classes3.dex
+renamed.6=classes7.dex
+renamed.5=classes4.dex
+renamed.4=classes5.dex
+renamed.3=classes6.dex
+renamed.2=classes2.dex
+renamed.1=classes8.dex
+renamed.0=classes.dex
+base.7=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8e006873e1743a5083075b52fbdb68ee8dd632ec
+base.6=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_73c81b3ab3a9d6d09084cbb8136b73be32341df5
+base.5=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_95505d68e6642f898e1298314627f336a7ebb789
+base.4=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b65e8dcc81090269d60f51f6f60e7369f8a6426f
+base.3=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e0b0ad800a884f6c8797e4181a2a6b71f720dd1b
+base.2=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6f8ef9b228d21d19029b282e7ba5a736469bf20e
+base.1=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_83c9c0b1c9cc8e95765a134131a6a39c7cda1b74
+base.0=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_15c01f8ca96f481256329c3fb911f648eafb0f1e
+file.7=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8e006873e1743a5083075b52fbdb68ee8dd632ec\\classes.dex
+file.6=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_73c81b3ab3a9d6d09084cbb8136b73be32341df5\\classes.dex
+file.5=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_95505d68e6642f898e1298314627f336a7ebb789\\classes.dex
+file.4=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b65e8dcc81090269d60f51f6f60e7369f8a6426f\\classes.dex
+file.3=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e0b0ad800a884f6c8797e4181a2a6b71f720dd1b\\classes.dex
+file.2=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6f8ef9b228d21d19029b282e7ba5a736469bf20e\\classes.dex
+file.1=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_83c9c0b1c9cc8e95765a134131a6a39c7cda1b74\\classes.dex
+file.0=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_15c01f8ca96f481256329c3fb911f648eafb0f1e\\classes.dex

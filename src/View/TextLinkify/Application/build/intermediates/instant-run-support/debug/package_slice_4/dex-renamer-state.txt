@@ -1,0 +1,4 @@
+#Mon Mar 26 18:13:12 CST 2018
+base.0=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

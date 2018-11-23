@@ -1,0 +1,7 @@
+#Mon Mar 26 18:13:14 CST 2018
+base.0=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b29b008dacb27e7bf37c24191a57a1a590ade5a5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_123f77b32527b7735dd485cd2cfe3f8d07e1794d\\classes.dex
+base.1=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_123f77b32527b7735dd485cd2cfe3f8d07e1794d
+file.0=F\:\\GoogleSample\\src\\View\\TextLinkify\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b29b008dacb27e7bf37c24191a57a1a590ade5a5\\classes.dex
